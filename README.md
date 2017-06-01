@@ -1,3 +1,7 @@
+This is a clone of the hackmd application which is being packaged for [sandstorm](https://sandstorm.io).
+The aim is to remain comaptible with upstream if possible.
+Mostly we will have to strip out the auth and user management and hand this over to sandstorm.
+
 HackMD
 ===
 
