@@ -2,6 +2,11 @@ This is a clone of the hackmd application which is being packaged for [sandstorm
 The aim is to remain comaptible with upstream if possible.
 Mostly we will have to strip out the auth and user management and hand this over to sandstorm.
 
+## packaging guide:
+
+https://docs.sandstorm.io/en/latest/vagrant-spk/packaging-tutorial/
+
+
 HackMD
 ===
 
